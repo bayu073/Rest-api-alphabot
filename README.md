@@ -14,7 +14,7 @@
   <a href="https://instagram.com/Zero-YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://github.com/Zero-YT7"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
+  <a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/youtube/channel/subscribers/ZeroYT7?style=social" /> <br>
 
 </p>
 
